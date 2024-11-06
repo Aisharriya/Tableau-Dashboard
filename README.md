@@ -1,5 +1,5 @@
 # Tableau-Dashboard
-
+![logo](https://github.com/Aisharriya/Tableau-Dashboard/blob/main/tableau.png)
 # Comprehensive Stock Market Analysis of Leading Tech Giants
 
 This project provides a comparative analysis of stock performance among six prominent technology companies—Apple, Facebook, Google, Nvidia, Tesla, and Twitter—spanning from January 2016 to April 2020. Using a structured data warehouse and interactive Tableau dashboards, this study explores price trends, trading volume, and performance metrics across these industry leaders.
